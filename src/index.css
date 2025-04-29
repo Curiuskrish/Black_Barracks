@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* FullCalendar Custom Theme */
+.fc-theme-custom {
+  --fc-border-color: theme('colors.slate.700');
+  --fc-button-bg-color: theme('colors.slate.700');
+  --fc-button-border-color: theme('colors.slate.600');
+  --fc-button-hover-bg-color: theme('colors.slate.600');
+  --fc-button-hover-border-color: theme('colors.slate.500');
+  --fc-button-active-bg-color: theme('colors.amber.500');
+  --fc-button-active-border-color: theme('colors.amber.600');
+  --fc-event-bg-color: theme('colors.amber.500');
+  --fc-event-border-color: theme('colors.amber.600');
+  --fc-today-bg-color: theme('colors.slate.700/50');
+}
+
+.fc {
+  @apply font-sans;
+}
+
+.fc .fc-toolbar-title {
+  @apply text-white;
+}
+
+.fc .fc-button {
+  @apply text-white hover:text-white focus:outline-none focus:ring-2 focus:ring-amber-500/50;
+}
+
+.fc .fc-button-primary:not(:disabled).fc-button-active,
+.fc .fc-button-primary:not(:disabled):active {
+  @apply text-slate-900;
+}
+
+.fc .fc-daygrid-day-number,
+.fc .fc-col-header-cell-cushion {
+  @apply text-gray-300;
+}
+
+.fc .fc-daygrid-day.fc-day-today {
+  @apply bg-slate-700/30;
+}
+
+.fc .fc-event {
+  @apply cursor-pointer transition-opacity hover:opacity-90;
+}
+
+.fc .fc-event-title {
+  @apply font-medium;
+}
+
+.fc .fc-event-time {
+  @apply font-normal;
+}
