@@ -16,7 +16,7 @@ import SkeletonLoader from '../components/common/SkeletonLoader';
 const memes = [
   {
     id: 1,
-    imageUrl: 'https://i.imgur.com/ozQUYzK.jpeg',
+    imageUrl: 'https://media4.giphy.com/media/WJ8Rnhyg67u3kjYKfy/giphy.gif?cid=6c09b952c013aj65smqrnzpdgcg7gn782lgil18pvgljrwak&ep=v1_gifs_search&rid=giphy.gif&ct=g',
     caption: 'When you finally hit your first six 🏏',
     likes: 2453,
     comments: 89,
@@ -26,7 +26,7 @@ const memes = [
   },
   {
     id: 2,
-    imageUrl: 'https://i.imgur.com/Dzuj7A0.jpeg',
+    imageUrl: 'https://media.tenor.com/Y7ShQ_3hnn8AAAAM/me-waiting-for-my-friends-to-get-online.gif',
     caption: 'That moment when the third umpire takes forever 😅',
     likes: 1832,
     comments: 45,
@@ -36,7 +36,7 @@ const memes = [
   },
   {
     id: 3,
-    imageUrl: 'https://i.imgur.com/vsoQzUV.jpeg',
+    imageUrl: 'https://i.pinimg.com/originals/b2/28/13/b228138ca189b63989d295492e8a8b16.gif',
     caption: 'Me calculating required run rate after every dot ball 📉',
     likes: 3120,
     comments: 150,
@@ -46,7 +46,7 @@ const memes = [
   },
   {
     id: 4,
-    imageUrl: 'https://i.imgur.com/JRMEKQs.jpeg',
+    imageUrl: 'https://img.wattpad.com/b10ffbb6b0eec83d0fb0c220e36987213249b0ce/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f39645148585a554e304754376b413d3d2d3431393538323130302e3134633362653832643830316231393732373236313039353930342e676966',
     caption:
       "Captain asking field placement like it's a Marvel strategy meeting 🧠🛡️",
     likes: 2078,
@@ -57,7 +57,7 @@ const memes = [
   },
   {
     id: 5,
-    imageUrl: 'https://i.imgur.com/2Mf6Imx.jpeg',
+    imageUrl: 'https://media.tenor.com/M5lhi9aS8tgAAAAM/umm-ill-pretend-i-didnt-see-that.gif',
     caption: 'When the fielder pretends he didn’t touch the rope 🫣',
     likes: 2750,
     comments: 132,
@@ -67,7 +67,7 @@ const memes = [
   },
   {
     id: 6,
-    imageUrl: 'https://i.imgur.com/TLzGR8m.jpeg',
+    imageUrl: 'https://media4.giphy.com/media/Fz9EKXRhp9F1S/giphy.gif?cid=6c09b952fyhs8mwnxx6rwn54lsdxzdq40cp276igzm26ii3r&ep=v1_gifs_search&rid=giphy.gif&ct=g',
     caption:
       "When the bowler appeals for LBW and even grandma at home knows it's not out 🧓😂",
     likes: 1980,
