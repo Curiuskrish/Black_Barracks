@@ -58,9 +58,7 @@ cd cpl-cricket-app
 # Open index.html in your browser (if using plain HTML/CSS/JS)
 If you're using React:
 
-bash
-Copy
-Edit
+
 # Install dependencies
 npm install
 
