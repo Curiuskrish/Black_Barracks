@@ -1,14 +1,16 @@
-🏏 CPL Cricket Web Application
+# 🏏 CPL Cricket Web Application
 
 A professional and responsive web application that showcases the Caribbean Premier League (CPL). This project is inspired by IPL-style cricket dashboards, providing a clean interface to explore teams, players, and match details. Designed with scalability and user engagement in mind.
 
- 📌 Project Description
+---
+
+## 📌 Project Description
 
 This CPL Cricket Web App presents an organized structure to display teams, player cards, and match information. It aims to provide a visually appealing and informative user experience using modern web technologies.
 
 ---
 
-🔧 Tech Stack
+## 🔧 Tech Stack
 
 - **Frontend:** HTML5, CSS3, JavaScript *(or React if used)*
 - **Styling:** Tailwind CSS / Custom CSS
@@ -16,7 +18,7 @@ This CPL Cricket Web App presents an organized structure to display teams, playe
 
 ---
 
-🎯 Features
+## 🎯 Features
 
 - Dynamic display of CPL teams and players
 - Responsive player cards with key statistics
@@ -26,48 +28,27 @@ This CPL Cricket Web App presents an organized structure to display teams, playe
 
 ---
 
-📂 Project Structure (Example)
+## 🚀 Getting Started
 
-```bash
-cpl-cricket-app/
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│   ├── team-logos/
-│   └── player-images/
-└── README.md
-If using React:
-
-bash
-Copy
-Edit
-cpl-app/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── App.js
-│   └── index.js
-└── README.md
-🚀 Getting Started
 To run the project locally:
 
-bash
-Copy
-Edit
+```bash
 # Clone the repository
 git clone https://github.com/your-username/cpl-cricket-app.git
 
-# Open index.html in your browser
+# Navigate to the project directory
 cd cpl-cricket-app
-If using React:
+
+# Open index.html in your browser (if using plain HTML/CSS/JS)
+If you're using React:
 
 bash
 Copy
 Edit
+# Install dependencies
 npm install
+
+# Start the development server
 npm start
 🌐 Live Demo
 🔗 View Live Project
@@ -87,3 +68,6 @@ BTech Student | Frontend Developer | Cricket Tech Enthusiast
 
 LinkedIn • Portfolio
 
+yaml
+Copy
+Edit
