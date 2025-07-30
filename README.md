@@ -27,6 +27,22 @@ This CPL Cricket Web App presents an organized structure to display teams, playe
 - Mobile-first responsiveness and clean layout
 
 ---
+🌐 Live Demo
+🔗 View Live Project
+
+📈 Future Enhancements
+Integrate live match score API (e.g., CricAPI, SportMonks)
+
+Add admin dashboard to manage teams/players
+
+Include match schedule with filtering
+
+Add dark mode toggle
+
+👨‍💻 Author
+Vamshi Krishna Kalyadapu
+BTech Student | Frontend Developer | Cricket Tech Enthusiast
+---
 
 ## 🚀 Getting Started
 
@@ -50,24 +66,5 @@ npm install
 
 # Start the development server
 npm start
-🌐 Live Demo
-🔗 View Live Project
 
-📈 Future Enhancements
-Integrate live match score API (e.g., CricAPI, SportMonks)
 
-Add admin dashboard to manage teams/players
-
-Include match schedule with filtering
-
-Add dark mode toggle
-
-👨‍💻 Author
-Vamshi Krishna Kalyadapu
-BTech Student | Frontend Developer | Cricket Tech Enthusiast
-
-LinkedIn • Portfolio
-
-yaml
-Copy
-Edit
